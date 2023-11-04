@@ -9,5 +9,7 @@ public class App {
         System.out.println("Hello World!");
 
         System.out.println("Ferst commit");
+
+        System.out.println("Sekond commit");
     }
 }
